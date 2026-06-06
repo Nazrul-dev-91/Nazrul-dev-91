@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nazrul Islam
-### 🚀 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+### 🚀 <img src="https://demolab.com" alt="Typing SVG" />
+
 <p align="center">
   <img src="https://komarev.com" alt="Profile Views" />
 </p>
@@ -21,7 +21,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev" height="50" alt="skills"  />
-  <br>
+  <br><br>
   <img src="https://skillicons.dev" height="50" alt="skills-next"  />
 </div>
 
@@ -30,18 +30,14 @@
 ### 📊 GitHub Stats & Dynamic Charts:
 
 <div align="center">
+  <!-- GitHub Streak Stats (অ্যানিমেটেড স্ট্রিক চার্ট) -->
   <img src="https://demolab.com" height="150" alt="streak graph" />
   
- 
   <br><br>
+  <!-- GitHub Stats & Top Languages -->
   <img src="https://vercel.app" height="160" alt="GitHub Stats" />
   <img src="https://vercel.app" height="160" alt="Top Languages" />
 </div>
-
-### 🎮 Contribution Graph Animation:
-<p align="center">
-  <img src="https://githubusercontent.com" alt="Snake Animation" />
-</p>
 
 <br clear="both">
 
