@@ -44,8 +44,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Nazrul-dev-91&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Nazrul-dev-91's GitHub stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazrul-dev-91&hide_border=true&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff" alt="GitHub Streak" />
-    </td>
+<img src="https://github-readme-stats.vercel.app/api?username=Nazrul-dev-91&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Nazrul-dev-91's GitHub stats" />    </td>
   </tr>
 </table>
 </p>
