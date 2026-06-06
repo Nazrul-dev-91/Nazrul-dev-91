@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nazrul Islam
 ### 🚀 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://komarev.com" alt="Profile Views" />
 </p>
