@@ -41,8 +41,12 @@
 <table align="center">
   <tr>
     <td align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=Nazrul-dev-91&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Nazrul-dev-91's GitHub stats" />    
+      <img src="https://img.shields.io/github/stars/Nazrul-dev-91/Nazrul-dev-91?style=for-the-badge&logo=github&logoColor=white&color=0891b2" alt="Stars" />    
     </td>
+     <td align="center">
+      <img src="https://img.shields.io/github/forks/Nazrul-dev-91/Nazrul-dev-91?style=for-the-badge&logo=github&logoColor=white&color=0891b2" alt="Forks" />    </td>
+     <td align="center">
+        <img src="https://img.shields.io/github/languages/top/Nazrul-dev-91/Nazrul-dev-91?style=for-the-badge&logo=python&logoColor=white&color=0891b2" alt="Top Language" />    </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazrul-dev-91&hide_border=true&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff" alt="Nazrul-dev-91's GitHub streak" /></table>
 </p>
