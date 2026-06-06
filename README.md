@@ -51,8 +51,5 @@
 <a href="https://www.buymeacoffee.com/Nazrul-dev-91">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
 </a>
-<a href="https://www.ko-fi.com/Nazrul-dev-91">
-  <img src="https://storage.ko-fi.com/cdn/kofi2.png" width="150" alt="Ko-fi" />
-</a>
 
 </div>
