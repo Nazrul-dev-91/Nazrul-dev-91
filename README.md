@@ -37,7 +37,7 @@
 
 ### GitHub Stats
 <p align="center">
-  ### GitHub Stats
+  GitHub Stats
 <table align="center">
   <tr>
     <td align="center">
