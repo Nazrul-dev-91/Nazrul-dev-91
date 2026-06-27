@@ -48,7 +48,7 @@
 
 ### 💡 Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote" />
+  <img src="https://cards.devsnap.me/api/quotes/random?theme=tokyonight" alt="Dynamic Quote" />
 </p>
 
 ---
