@@ -1,0 +1,39 @@
+name: Refresh Quotes Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *' 
+  workflow_dispatch: 
+
+jobs:
+  update-quotes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Fetch Random Dev Quote
+        id: get_quote
+        run: |
+          RESPONSE=$(curl -s "https://programming-quotes-api.herokuapp.com/Quotes/random" || curl -s "https://api.quotable.io/random?tags=technology,famous-quotes")
+          QUOTE=$(echo "$RESPONSE" | grep -o '"en":[^,]*' | head -1 | sed 's/"en":"//;s/"//g' || echo "$RESPONSE" | grep -o '"content":[^,]*' | head -1 | sed 's/"content":"//;s/"//g')
+          AUTHOR=$(echo "$RESPONSE" | grep -o '"author":[^,]*' | head -1 | sed 's/"author":"//;s/"//g' || echo "Unknown")
+          
+          if [ -z "$QUOTE" ]; then
+            QUOTE="First, solve the problem. Then, write the code."
+            AUTHOR="John Johnson"
+          fi
+          
+          echo "QUOTE_TEXT=> \"$QUOTE\" — *$AUTHOR*" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i '/<!-- README-QUOTES:START -->/,/<!-- README-QUOTES:END -->/{//!d;}' README.md
+          sed -i '/<!-- README-QUOTES:START -->/a ${{ env.QUOTE_TEXT }}' README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff-index --quiet HEAD || git commit -m "chore: update daily quote [skip ci]"
+          git push
