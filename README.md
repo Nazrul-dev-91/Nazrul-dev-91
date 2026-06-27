@@ -23,12 +23,7 @@
   </a>
 </p>
 
-
 ---
-### 🗓️ 3D Contribution Graph
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Nazrul-dev-91" alt="Nazrul's 3D Contribution Graph" />
-</p>
 
 ### 📊 GitHub Analytics
 
@@ -41,15 +36,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazrul-dev-91&theme=tokyonight" alt="GitHub Streak" width="97%" />
 </p>
 
-### 🏆 My GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nazrul-dev-91&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Nazrul's Trophies" />
-</p>
-
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/nazrul-islam-22a9983a3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
