@@ -16,6 +16,12 @@
 - 💬 **Fun Fact:** Ask me about CODM's soldier! 🎮
 
 ---
+### 🚀 Technologies & Tools I Use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,py,c,django,html,css,tailwind,bootstrap,mysql,git,vscode,figma" />
+  </a>
+</p>
 
 ### 🛠️ Tech Stack & Skills
 
@@ -39,6 +45,10 @@
 </p>
 
 ---
+### 🗓️ 3D Contribution Graph
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Nazrul-dev-91" alt="Nazrul's 3D Contribution Graph" />
+</p>
 
 ### 📊 GitHub Analytics
 
