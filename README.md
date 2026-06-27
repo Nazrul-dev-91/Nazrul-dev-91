@@ -16,11 +16,19 @@
 - 💬 **Fun Fact:** Ask me about CODM's soldier! 🎮
 
 ---
+
 ### 🚀 Technologies & Tools I Use
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,py,c,django,html,css,tailwind,bootstrap,mysql,git,vscode,figma" />
   </a>
+</p>
+
+---
+
+### 🎮 Contribution Snake Game
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nazrul-dev-91/Nazrul-dev-91/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 
 ---
@@ -38,12 +46,23 @@
 
 ---
 
+### 💡 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote" />
+</p>
+
+---
+
 ### 🤝 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/nazrul-islam-22a9983a3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://dev-nazrul-co.errorgoat.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/Website-FFDD00?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/normal-badge.png?id=Nazrul-dev-91&color=blue&style=flat" alt="Profile Views" />
 </p>
