@@ -46,9 +46,9 @@
 
 ---
 
-### 💡 Quote of the Day
+## 💡 Quote of the Day
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=border" alt="Quote of the Day" />
+  <img src="https://inspirational-quotes-api.vercel.app/api/quote/image?theme=dark" alt="Daily Random Quote" />
 </p>
 
 ---
