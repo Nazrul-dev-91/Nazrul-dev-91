@@ -51,6 +51,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazrul-dev-91&theme=tokyonight" alt="GitHub Streak" width="97%" />
 </p>
 
+### 🏆 My GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nazrul-dev-91&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Nazrul's Trophies" />
+</p>
+
 ---
 
 ### 🤝 Connect with Me
