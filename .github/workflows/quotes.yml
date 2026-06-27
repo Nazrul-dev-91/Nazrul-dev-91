@@ -9,21 +9,25 @@ jobs:
   update-quotes:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 
       
-      - name: Fetch Random Dev Quote
+       Silber-🚀: Get Local Random Quote
+      - name: Get Random Quote
         id: get_quote
         run: |
-          RESPONSE=$(curl -s "https://programming-quotes-api.herokuapp.com/Quotes/random" || curl -s "https://api.quotable.io/random?tags=technology,famous-quotes")
-          QUOTE=$(echo "$RESPONSE" | grep -o '"en":[^,]*' | head -1 | sed 's/"en":"//;s/"//g' || echo "$RESPONSE" | grep -o '"content":[^,]*' | head -1 | sed 's/"content":"//;s/"//g')
-          AUTHOR=$(echo "$RESPONSE" | grep -o '"author":[^,]*' | head -1 | sed 's/"author":"//;s/"//g' || echo "Unknown")
+          QUOTES=(
+            "\"First, solve the problem. Then, write the code.\" — *John Johnson*"
+            "\"Talk is cheap. Show me the code.\" — *Linus Torvalds*"
+            "\"Clean code always looks like it was written by someone who cares.\" — *Michael Feathers*"
+            "\"Software is a great combination between artistry and engineering.\" — *Bill Gates*"
+            "\"Knowledge is power.\" — *Francis Bacon*"
+            "\"Code is like humor. When you have to explain it, it’s bad.\" — *Cory House*"
+            "\"Simplicity is the soul of efficiency.\" — *Austin Freeman*"
+            "\"Make it work, make it right, make it fast.\" — *Kent Beck*"
+          )
           
-          if [ -z "$QUOTE" ]; then
-            QUOTE="First, solve the problem. Then, write the code."
-            AUTHOR="John Johnson"
-          fi
-          
-          echo "QUOTE_TEXT=> \"$QUOTE\" — *$AUTHOR*" >> $GITHUB_ENV
+          RANDOM_QUOTE=${QUOTES[$RANDOM % ${#QUOTES[@]}]}
+          echo "QUOTE_TEXT=$RANDOM_QUOTE" >> $GITHUB_ENV
 
       - name: Update README
         run: |
