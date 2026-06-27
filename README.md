@@ -48,7 +48,7 @@
 
 ### 💡 Quote of the Day
 <p align="center">
-  <img src="https://cards.devsnap.me/api/quotes/random?theme=tokyonight" alt="Dynamic Quote" />
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=border" alt="Quote of the Day" />
 </p>
 
 ---
@@ -63,6 +63,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/normal-badge.png?id=Nazrul-dev-91&color=blue&style=flat" alt="Profile Views" />
-</p>
+
