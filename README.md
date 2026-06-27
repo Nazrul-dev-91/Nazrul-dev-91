@@ -47,9 +47,9 @@
 ---
 
 ## 💡 Quote of the Day
-<p align="center">
-  <img src="https://inspirational-quotes-api.vercel.app/api/quote/image?theme=dark" alt="Daily Random Quote" />
-</p>
+<!-- README-QUOTES:START -->
+> "Loading today's awesome quote..."
+<!-- README-QUOTES:END -->
 
 ---
 
