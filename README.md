@@ -36,8 +36,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nazrul-dev-91&show_icons=true&theme=tokyonight&count_private=true" alt="Nazrul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazrul-dev-91&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nazrul-dev-91&show_icons=true&theme=tokyonight&count_private=true" alt="Nazrul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nazrul-dev-91&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
 </p>
 
 <p align="center">
