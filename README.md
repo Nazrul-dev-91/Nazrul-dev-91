@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=7aa2f7&center=true&vCenter=true&width=900&height=150&lines=const+developer+%3D+%7B+name%3A+%22Nazrul%22+%7D%3B;while+%28alive%29+%7B+code%28%29%3B+%7D;🚀+Welcome+to+my+development+space+🌌;Building+modern+apps+%26+clean+code+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=7aa2f7&center=true&vCenter=true&width=900&height=150&lines=const+developer+%3D+%7B+name%3A+%22Nazrul%22+%7D%3B;while+%28alive%29+%7B+code%28%29%3B+%7D;%F0%9F%9A%80+Welcome+to+my+development+space+%F0%9F%8C%8C;Building+modern+apps+%26+clean+code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
-
----
 
 <h1 align="center">👋 Hi there, I'm Nazrul!</h1>
 
