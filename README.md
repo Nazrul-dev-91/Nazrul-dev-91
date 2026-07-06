@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=4000&pause=2000&color=7aa2f7&center=false&vCenter=true&width=900&height=300&multiline=true&repeat=false&lines=while+%28alive%29+%7B;++++let+developer+%3D+%7B;++++++++name%3A+%22Nazrul%22%2C;++++++++role%3A+%22Full+Stack+Web+%26+Mobile+Developer%22%2C;++++++++mission%3A+%22Building+modern+apps+%26+clean+code%22%2C;++++++++theme%3A+%22Tokyo+Night+%F0%9F%8C%8C%22;++++%7D%3B;++++code%28developer%29%3B;%7D" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=320&section=header&text=while+%28alive%29+%7B;++++let+developer+%3D+%7B;++++++++name%3A+%22Nazrul%22%2C;++++++++role%3A+%22Full+Stack+Developer%22%2C;++++++++mission%3A+%22Building+modern+apps+%26+clean+code%22%2C;++++++++theme%3A+%22Tokyo+Night+%F0%9F%8C%8C%22;++++%7D%3B;++++code%28developer%29%3B;%7D&fontSize=18&fontAlignX=10&fontAlignY=50&fontColor=7aa2f7&stroke=313244&strokeWidth=1&animation=fadeIn" width="100%" alt="Nazrul's Code Environment" />
 </p>
+
+---
 
 
 <h1 align="center">👋 Hi there, I'm Nazrul!</h1>
