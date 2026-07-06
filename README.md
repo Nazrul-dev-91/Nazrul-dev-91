@@ -1,21 +1,7 @@
 <div align="center">
-<pre align="left" style="display: inline-block; background-color: #1a1b26; padding: 20px; border-radius: 10px; border: 1px solid #313244; font-family: 'Fira Code', monospace; color: #7aa2f7; font-size: 15px; line-height: 1.6;">
-<span style="color: #565f89;">/**
- * 👨‍💻 Nazrul's Development Environment
- * 🌌 Theme: Tokyo Night | Status: Active & Coding 🚀
- */</span>
-
-<span style="color: #bb9af7;">while</span> (alive) {
-    <span style="color: #bb9af7;">let</span> developer = {
-        name: <span style="color: #9ece6a;">"Nazrul"</span>,
-        role: <span style="color: #9ece6a;">"Full Stack Web & Mobile Developer"</span>,
-        mission: <span style="color: #9ece6a;">"Building modern apps & turning ideas into clean code"</span>,
-        tools: [<span style="color: #9ece6a;">"JavaScript"</span>, <span style="color: #9ece6a;">"Kotlin"</span>, <span style="color: #9ece6a;">"Web & Mobile Tech"</span>]
-    };
-    
-    code(developer);
-}
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=4000&color=7aa2f7&center=false&vCenter=true&width=900&height=320&multiline=true&repeat=true&lines=while+%28alive%29+%7B;++++let+developer+%3D+%7B;++++++++name%3A+%22Nazrul%22%2C;++++++++role%3A+%22Full+Stack+Web+%26+Mobile+Developer%22%2C;++++++++mission%3A+%22Building+modern+apps+%26+clean+code%22%2C;++++++++theme%3A+%22Tokyo+Night+%F0%9F%8C%8C%22;++++%7D%3B;++++code%28developer%29%3B;%7D" alt="Live Typing Coding Vibe" />
+</p>
 </div>
 
 ---
