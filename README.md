@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nazrul-dev-91&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nazrul-dev-91&theme=tokyonight" alt="GitHub Activity Graph" width="97%" />
 </p>
 
 ---
