@@ -18,7 +18,6 @@ const developer = {
 };
 
 console.log(`Building things at ${developer.skills.join(' & ')}`);
-``
 </div>
 
 <p align="center">
