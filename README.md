@@ -1,7 +1,7 @@
 # Hi there, I'm Nazrul! 👋
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f1419&height=220&section=header&text=%20%20%20%20%20Nazrul-dev-91%20:%20~%20$%20cat%20profile.json&fontSize=26&fontAlignX=22&fontAlignY=25&fontColor=ffb454&stroke=313244&strokeWidth=2&animation=twinkling&desc=%7B%20%22role%22:%20%22Web%20&%20App%20Developer%22,%20%22status%22:%20%22Building%20Cool%20Stuff%22%20%7D&descSize=16&descAlignX=22&descAlignY=55&descColor=59c2ff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=180&section=header&text=%E2%9D%AF%20while(alive)%20%7B%20code();%20%7D&fontSize=32&fontColor=7aa2f7&fontAlign=15&fontAlignY=45&desc=%2F%2F%20Welcome%20to%20Nazrul's%20Development%20Environment&descSize=14&descColor=565f89&descAlignX=15&descAlignY=75" width="100%" />
 </p>
   <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1200&h=400&fit=crop" width="100%" style="border-radius: 8px; display: block;" />
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
