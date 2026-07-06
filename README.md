@@ -5,11 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Developer;Django+Developer;Android+Developer;Building+Modern+Web+Applications;Android+Applications;Django+API+%2B+React+%2B+Kotlin+Learner;Open+to+Internships+%26+Full-Time+Roles" />
 
 <br>
-
-<a href="https://www.nazrulislam41291@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/nazrul-islam-22a9983a3/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -17,13 +12,8 @@
 <a href="https://dev-nazrul-co.errorgoat.com/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-orange?style=for-the-badge" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=durgashankard&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-
+<br>
 <img src="https://img.shields.io/badge/Open%20To-Internship%20%26%20Full%20Time-success?style=for-the-badge"/>
-
 </div>
 
 
