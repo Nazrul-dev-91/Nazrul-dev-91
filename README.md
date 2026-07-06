@@ -1,58 +1,12 @@
 # Hi there, I'm Nazrul! 👋
-<!-- GitHub Profile Banner -->
-<div align="center">
-  <div style="
-    position: relative;
-    width: 100%;
-    height: 200px;
-    background-image: url('https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1200&auto=format&fit=crop');
-    background-size: cover;
-    background-position: center;
-    border-radius: 12px;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.4);
-  ">
-    <!-- Overlay to make text pop -->
-    <div style="
-      position: absolute;
-      top: 0; left: 0; right: 0; bottom: 0;
-      background: rgba(26, 27, 38, 0.75);
-    "></div>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1000&auto=format&fit=crop" alt="Nazrul's Dev Banner" width="100%" style="border-radius: 12px;">
+</p>
 
-    <!-- Text Content -->
-    <div style="
-      position: relative;
-      text-align: center;
-      width: 100%;
-      z-index: 2;
-    ">
-      <p style="
-        margin: 0;
-        font-family: 'Fira Code', monospace;
-        font-size: 32px;
-        color: #7aa2f7;
-        font-weight: bold;
-        letter-spacing: 1px;
-        text-shadow: 0 0 10px rgba(122, 162, 247, 0.5);
-      ">
-        ❯ while(alive) { code(); }
-      </p>
-      <p style="
-        margin: 8px 0 0;
-        font-family: 'Fira Code', monospace;
-        font-size: 14px;
-        color: #aeafb0;
-        letter-spacing: 0.5px;
-      ">
-        // Welcome to Nazrul's Development Environment
-      </p>
-    </div>
-  </div>
-</div>
-<!-- End Banner -->
+<p align="center">
+  <font size="6" color="#7aa2f7"><b>❯ while(alive) { code(); }</b></font><br>
+  <font size="3" color="#aeafb0"><code>// Welcome to Nazrul's Development Environment</code></font>
+</p>
 
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
   <p align="center">
