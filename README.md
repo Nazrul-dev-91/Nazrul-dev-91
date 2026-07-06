@@ -1,13 +1,24 @@
 <div align="center" style="background: linear-gradient(180deg, rgba(26,27,38,0.85), rgba(10,10,12,0.85)), url('https://raw.githubusercontent.com/<Nazrul-dev-91>/<Nazrul-dev-91>/<branch>/assets/bg.gif
 '); background-size: cover; padding: 28px; border-radius: 12px;">
-<h3 style="font-family: 'Fira Code', monospace; color: #c0caf5; margin-bottom: 8px;">👋 Hi there, I'm Nazrul! — <br>🚀 Welcome to my development space — where ideas turn into clean code.</h3>
+```javascript
+/**
+ * 👨‍💻 Nazrul's Code Environment
+ * 🌌 Theme: Tokyo Night | Status: Open to Collaborate
+ */
 
-  <!-- Single multiline typing SVG: lines will appear one-by-one -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=1400&color=89b4fa&background=1a1b26&center=false&vCenter=true&width=760&height=220&multiline=true&lines=while+%28alive%29+%7B%0A++++let+developer+%3D+%7B%0A++++++++name%3A+%22Nazrul%22%2C%0A++++++++role%3A+%22Web+%26+Android+Developer%22%2C%0A++++++++mission%3A+%22Building+apps+%26+beautiful+UIs%22%2C%0A++++++++theme%3A+%22Tokyo+Night+%F0%9F%8C%8C%22%0A++++%7D%3B%0A++++code%28developer%29%3B%0A%7D" alt="Typing intro" />
+const developer = {
+  name: "Nazrul",
+  skills: ["Web App", "Android", "UI/UX"],
+  features: {
+    cleanCode: true,
+    pixelPerfect: true,
+    coffeeFueled: true
+  },
+  currentFocus: "Advanced Android Development with Kotlin 🚀"
+};
 
-  <p style="font-family: 'Fira Code', monospace; color: #9aa5d1; margin-top: 12px; font-size: 13px;">
-    Web • Android • UI/UX • Open to collabs
-  </p>
+console.log(`Building things at ${developer.skills.join(' & ')}`);
+``
 </div>
 
 <p align="center">
