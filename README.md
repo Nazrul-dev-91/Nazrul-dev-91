@@ -53,7 +53,9 @@
 
 ## 💡 Quote of the Day
 <!-- README-QUOTES:START -->
-> "Loading today's awesome quote..."
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+</p>
 <!-- README-QUOTES:END -->
 
 ---
