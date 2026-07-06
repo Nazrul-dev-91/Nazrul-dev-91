@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Nazrul-dev-91&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Nazrul-dev-91&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&v=2" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
