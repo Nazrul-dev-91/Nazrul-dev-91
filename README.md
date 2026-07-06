@@ -1,23 +1,24 @@
 <div align="center">
-
-```javascript
-/**
+<pre align="left" style="display: inline-block; background-color: #1a1b26; padding: 20px; border-radius: 10px; border: 1px solid #313244; font-family: 'Fira Code', monospace; color: #7aa2f7; font-size: 15px; line-height: 1.6;">
+<span style="color: #565f89;">/**
  * 👨‍💻 Nazrul's Development Environment
  * 🌌 Theme: Tokyo Night | Status: Active & Coding 🚀
- */
+ */</span>
 
-while (alive) {
-    let developer = {
-        name: "Nazrul",
-        role: "Full Stack Web & Mobile Developer",
-        mission: "Building modern apps & turning ideas into clean code",
-        tools: ["JavaScript", "Kotlin", "Web & Mobile Tech"]
+<span style="color: #bb9af7;">while</span> (alive) {
+    <span style="color: #bb9af7;">let</span> developer = {
+        name: <span style="color: #9ece6a;">"Nazrul"</span>,
+        role: <span style="color: #9ece6a;">"Full Stack Web & Mobile Developer"</span>,
+        mission: <span style="color: #9ece6a;">"Building modern apps & turning ideas into clean code"</span>,
+        tools: [<span style="color: #9ece6a;">"JavaScript"</span>, <span style="color: #9ece6a;">"Kotlin"</span>, <span style="color: #9ece6a;">"Web & Mobile Tech"</span>]
     };
     
     code(developer);
 }
-```
+</pre>
 </div>
+
+---
 
 <h1 align="center">👋 Hi there, I'm Nazrul!</h1>
 
