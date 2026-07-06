@@ -37,12 +37,45 @@
 
 ---
 
-### 🚀 Technologies & Tools I Use
+###   🛠️   Technologies & Tools I Use
+
+## 💻 Primary Languages
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,py,c,django,html,css,tailwind,bootstrap,mysql,git,vscode,figma" />
-  </a>
+<img src="https://skillicons.dev/icons?i=py,c" />
 </p>
+
+## 🌐 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html5,css3,tailwind,bootstrap,react" />
+</p>
+
+## ⚙️ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,node.js"/>
+</p>
+
+## 🗄 Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=sql,postgresql,mysql,firebase"/>
+</p>
+
+## 🛠 Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,"/>
+</p>
+
+## 🤖 AI Tools
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+![Manus AI](https://img.shields.io/badge/Manus_AI-000000?style=for-the-badge&logo=robot&logoColor=white)
+![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-EA4335?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
