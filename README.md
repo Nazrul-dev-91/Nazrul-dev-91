@@ -108,14 +108,13 @@
 <!-- README-QUOTES:END -->
 
 ---
-<hr>
-
-![Keep Coding](https://img.shields.io/badge/Keep-Coding-blue?style=for-the-badge&logo=github)
-![Never Give Up](https://img.shields.io/badge/Never-Give%20Up-red?style=for-the-badge&logo=rocket)
-![Dream Big](https://img.shields.io/badge/Dream-Big-orange?style=for-the-badge&logo=star)
-![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-green?style=for-the-badge&logo=fire)
-![Build The Future](https://img.shields.io/badge/Build-The%20Future-purple?style=for-the-badge&logo=lightning)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Keep--Coding-0052CC?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Never--Give%20Up-FF0000?style=for-the-badge&logo=spacex&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Dream--Big-FF8C00?style=for-the-badge&logo=starship&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Stay--Motivated-008000?style=for-the-badge&logo=cachet&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Build--The%20Future-8A2BE2?style=for-the-badge&logo=bolt&logoColor=white" />
+</p>
 
 ### 🤝 Connect with Me
   <p style="font-family: 'Fira Code', monospace; color: #9aa5d1; margin-top: 12px; font-size: 13px;">
