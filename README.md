@@ -1,15 +1,8 @@
-# 👨‍💻 Nazrul's Terminal
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=220&section=header&text=%20%20%20%20Nazrul%20%3A%20~%20$%20cat%20profile.json&fontSize=26&fontAlignX=20&fontAlignY=30&fontColor=ffb454&stroke=313244&strokeWidth=2&animation=twinkling&desc=%7B%20%22role%22%20:%20%22Full%20Stack%20Developer%22%20,%20%22status%22%20:%20%22while(alive)%20%7B%20code();%20%7D%22%20%7D&descSize=16&descAlignX=20&descAlignY=58&descColor=59c2ff" width="100%" />
+</p>
 
-```javascript
-const developer = {
-  name: "Nazrul",
-  status: "while(alive) { code(); }",
-  role: "Full Stack Web & Mobile Developer",
-  mission: "Building modern apps & turning ideas into clean code",
-  environment: "Tokyo Night 🌌"
-};
-
-console.log(`🚀 Welcome to my development space!`);
+---
 ---
 <h1 align="center">👋 Hi there, I'm Nazrul!</h1>
 
