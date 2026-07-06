@@ -1,7 +1,5 @@
 <div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1200&pause=2000&background=1a1b26&center=false&vCenter=true&width=600&height=280&multiline=true&repeat=true&lines=%23bb9af7+while+%28alive%29+%7B;%23bb9af7++++let+developer+%3D+%7B;%237aa2f7++++++++name%3A+%22Nazrul%22%2C;%237aa2f7++++++++role%3A+%22Full+Stack+Developer%22%2C;%237aa2f7++++++++mission%3A+%22Building+apps%22%2C;%237aa2f7++++++++theme%3A+%22Tokyo+Night+%F0%9F%8C%8C%22;%23bb9af7++++%7D%3B;%237aa2f7++++code%28developer%29%3B;%23bb9af7+%7D" alt="Fast Tokyo Night IDE Vibe" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=800&pause=3000&background=1a1b26&center=false&vCenter=true&width=600&height=280&multiline=true&repeat=true&lines=%23bb9af7+while+%28alive%29+%7B;%23bb9af7++++let+developer+%3D+%7B;%237aa2f7++++++++name%3A+%239ece6a%22Nazrul%22%2C;%237aa2f7++++++++role%3A+%239ece6a%22Full+Stack+Developer%22%2C;%237aa2f7++++++++mission%3A+%239ece6a%22Building+apps%22%2C;%237aa2f7++++++++theme%3A+%23e0af68%22Tokyo+Night+%F0%9F%8C%8C%22;%23bb9af7++++%7D%3B;%237aa2f7++++code%28developer%29%3B;%23bb9af7+%7D" alt="Fast Tokyo Night IDE Vibe" />
 </div>
 
 ---
