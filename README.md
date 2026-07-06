@@ -46,24 +46,22 @@
 
 ## 🌐 Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html5,css3,tailwind,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" />
 </p>
 
 ## ⚙️ Backend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django,node.js"/>
+  <img src="https://skillicons.dev/icons?i=django,nodejs" />
 </p>
 
 ## 🗄 Database
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=sql,postgresql,mysql,firebase"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
 </p>
 
 ## 🛠 Tools & Platforms
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ## 🤖 AI Tools
