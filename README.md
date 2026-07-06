@@ -1,11 +1,7 @@
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f1419&height=220&section=header&text=%20%20%20%20%20Nazrul-dev-91%20:%20~%20$%20cat%20profile.json&fontSize=26&fontAlignX=22&fontAlignY=25&fontColor=ffb454&stroke=313244&strokeWidth=2&animation=twinkling&desc=%7B%20%22role%22:%20%22Web%20&%20App%20Developer%22,%20%22status%22:%20%22Building%20Cool%20Stuff%22%20%7D&descSize=16&descAlignX=22&descAlignY=55&descColor=59c2ff" width="100%" />
-</p>
-</div>
-<div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
-  <p align="center">
-    <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1200&auto=format&fit=crop" alt="Nazrul's Dev Banner" width="100%" style="border-radius: 12px;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f1419&height=220&section=header&text=%20%20%20%20%20Nazrul-dev-91%20:%20~%20$%20cat%20profile.json&fontSize=26&fontAlignX=22&fontAlignY=25&fontColor=ffb454&stroke=313244&strokeWidth=2&animation=twinkling&desc=%7B%20%22role%22:%20%22Web%20%26%20App%20Developer%22,%20%22focus%22:%20%22Clean%20Code%20%26%20Functional%20Apps%22,%20%22status%22:%20%22Building%20Production-Ready%20Projects%22,%20%22skills%22:%20%5B%22Django%22,%20%22React%22,%20%22Android%22%5D%20%7D&descSize=15&descAlignX=22&descAlignY=55&descColor=59c2ff" width="100%" />
+
 </p>
 </div>
 ---
