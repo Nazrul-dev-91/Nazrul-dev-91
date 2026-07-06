@@ -1,6 +1,8 @@
 # Hi there, I'm Nazrul! 👋
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nazrul-dev-91&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" />
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&theme=tokyonight&height=220&section=header&text=Nazrul-dev&fontSize=60&fontColor=7aa2f7&animation=fadeIn&desc=Kotlin%20%7C%20Python%20%7C%20Web%20Dev&descSize=20&descAlign=68" width="100%" />
+</p>
   <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1200&h=400&fit=crop" width="100%" style="border-radius: 8px; display: block;" />
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1200&height=100&lines=Welcome+To+My+Profile+!+%F0%9F%91%8B;An+enthusiastic+Web+Developer...;Learning+Advanced+Kotlin+%F0%9F%9A%80" alt="Typing SVG" />
@@ -47,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nazrul-dev-91&theme=tokyonight" alt="GitHub Activity Graph" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nazrul-dev-91&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" />
 </p>
 
 ---
