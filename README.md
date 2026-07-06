@@ -1,9 +1,7 @@
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2000&pause=3000&color=7aa2f7&center=false&vCenter=true&width=650&height=260&multiline=true&repeat=true&lines=while+%28alive%29+%7B;++let+developer+%3D+%7B;++++name%3A+%22Nazrul%22%2C;++++role%3A+%22Full+Stack+Developer%22%2C;++++mission%3A+%22Building+modern+apps%22%2C;++++theme%3A+%22Tokyo+Night+%F0%9F%8C%8C%22;++%7D%3B;++code%28developer%29%3B;%7D" alt="Fast Live Coding Vibe" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=4000&color=bb9af7&background=1a1b26&center=false&vCenter=true&width=600&height=280&multiline=true&repeat=true&lines=%3Cspan+color%3D%27%23bb9af7%27%3Ewhile%3C%2Fspan%3E+%28alive%29+%7B;++++%3Cspan+color%3D%27%23bb9af7%27%3Elet%3C%2Fspan%3E+developer+%3D+%7B;++++++++name%3A+%3Cspan+color%3D%27%239ece6a%27%3E%22Nazrul%22%3C%2Fspan%3E%2C;++++++++role%3A+%3Cspan+color%3D%27%239ece6a%27%3E%22Full+Stack+Developer%22%3C%2Fspan%3E%2C;++++++++mission%3A+%3Cspan+color%3D%27%239ece6a%27%3E%22Building+modern+apps%22%3C%2Fspan%3E%2C;++++++++theme%3A+%3Cspan+color%3D%27%23e0af68%27%3E%22Tokyo+Night+%F0%9F%8C%8C%22%3C%2Fspan%3E;++++%7D%3B;++++%3Cspan+color%3D%27%237aa2f7%27%3Ecode%3C%2Fspan%3E%28developer%29%3B;%7D" alt="Modern Tokyo Night IDE Vibe" />
 </p>
-
----
 </div>
 
 ---
