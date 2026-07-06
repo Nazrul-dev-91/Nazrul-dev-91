@@ -26,9 +26,14 @@
 
 - 🌍 **Location:** Bangladesh
 - ✉️ **Contact:** [nazrul41291@gmail.com](mailto:nazrul41291@gmail.com)
+- 🎯 **Focus:** — Web (backend) . Android . React . AI Engineering · Agentic AI 
+- 💡 **Mindset:** — Build → Optimize → Improve → Repeat
 - 🧠 **Currently Learning:** Advanced Android Application Development with Kotlin 🚀
 - 👥 **Looking to Collaborate:** On innovative Website & App Development projects
-- 💬 **Fun Fact:** Ask me about CODM's soldier! 🎮
+- 💬 **Interested in:**
+🌐 Backend Engineering · 🌱 Open Source Contribution .📱 Mobile App Development . 🤖 AI Engineering · 🧩 Agentic AI 
+💳 Fintech Interfaces 
+- ⚡ **Fun Fact:** Ask me about CODM's soldier! 🎮
 
 ---
 
