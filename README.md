@@ -1,3 +1,16 @@
+# 👨‍💻 Nazrul's Terminal
+
+```javascript
+const developer = {
+  name: "Nazrul",
+  status: "while(alive) { code(); }",
+  role: "Full Stack Web & Mobile Developer",
+  mission: "Building modern apps & turning ideas into clean code",
+  environment: "Tokyo Night 🌌"
+};
+
+console.log(`🚀 Welcome to my development space!`);
+---
 <h1 align="center">👋 Hi there, I'm Nazrul!</h1>
 
 <p align="center">
