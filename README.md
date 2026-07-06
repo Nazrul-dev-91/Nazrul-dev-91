@@ -1,11 +1,13 @@
 <h1 align="center">👋 Hi there, I'm Nazrul!</h1>
-
-<p align="center">
-  <code>🚀 Welcome to my development space</code><br><br>
-  <b>💻 Full Stack Web Developer</b> • <i>Building modern web & mobile applications</i><br>
-  <code>❯ while(alive) { code(); }</code>
-</p>
-
+```json
+{
+  "greeting": "Hi there, I'm Nazrul! 👋",
+  "welcome_msg": "Welcome to my development space 🚀",
+  "current_role": "Full Stack Web & Mobile Developer",
+  "status": "Building modern apps & writing clean code",
+  "signature": "while (alive) { code(); }"
+}
+---
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
   <p align="center">
     <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1200&auto=format&fit=crop" alt="Nazrul's Dev Banner" width="100%" style="border-radius: 12px;">
