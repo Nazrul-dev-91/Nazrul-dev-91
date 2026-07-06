@@ -1,4 +1,59 @@
 # Hi there, I'm Nazrul! 👋
+<!-- GitHub Profile Banner -->
+<div align="center">
+  <div style="
+    position: relative;
+    width: 100%;
+    height: 200px;
+    background-image: url('https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1200&auto=format&fit=crop');
+    background-size: cover;
+    background-position: center;
+    border-radius: 12px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+  ">
+    <!-- Overlay to make text pop -->
+    <div style="
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(26, 27, 38, 0.75);
+    "></div>
+
+    <!-- Text Content -->
+    <div style="
+      position: relative;
+      text-align: center;
+      width: 100%;
+      z-index: 2;
+    ">
+      <p style="
+        margin: 0;
+        font-family: 'Fira Code', monospace;
+        font-size: 32px;
+        color: #7aa2f7;
+        font-weight: bold;
+        letter-spacing: 1px;
+        text-shadow: 0 0 10px rgba(122, 162, 247, 0.5);
+      ">
+        ❯ while(alive) { code(); }
+      </p>
+      <p style="
+        margin: 8px 0 0;
+        font-family: 'Fira Code', monospace;
+        font-size: 14px;
+        color: #aeafb0;
+        letter-spacing: 0.5px;
+      ">
+        // Welcome to Nazrul's Development Environment
+      </p>
+    </div>
+  </div>
+</div>
+<!-- End Banner -->
+
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
   <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=180&section=header&text=%E2%9D%AF%20while(alive)%20%7B%20code();%20%7D&fontSize=30&fontColor=7aa2f7&fontAlign=23&fontAlignY=45&desc=%2F%2F%20Welcome%20to%20Nazrul's%20Development%20Environment&descSize=14&descColor=565f89&descAlignX=23&descAlignY=75" width="100%" />
