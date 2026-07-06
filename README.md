@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=220&section=header&text=%20%20%20%20Nazrul%20%3A%20~%20$%20cat%20profile.json&fontSize=26&fontAlignX=20&fontAlignY=30&fontColor=ffb454&stroke=313244&strokeWidth=2&animation=twinkling&desc=%7B%20%22role%22%20:%20%22Full%20Stack%20Developer%22%20,%20%22status%22%20:%20%22while(alive)%20%7B%20code();%20%7D%22%20%7D&descSize=16&descAlignX=20&descAlignY=58&descColor=59c2ff" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1500&color=7aa2f7&center=true&vCenter=true&width=900&height=180&lines=const+developer+%3D+%7B+name%3A+%22Nazrul%22+%7D%3B%0A;while+(alive)+%7B+code()%3B+%7D;🚀+Welcome+to+my+development+space+🌌;Building+modern+apps+%26+clean+code+💻" alt="Typing SVG" />
 </p>
 
----
----
 <h1 align="center">👋 Hi there, I'm Nazrul!</h1>
 
 <p align="center">
