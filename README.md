@@ -1,19 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api type=rect&color=12141a&height=280&section=header&text=%20👋%20Hi%20there,%20I'm%20Nazrul-dev-91.%20Welcome%20to%20My%20World%20of%20Coding%20!%20%20&fontColor=ffffff&fontSize=20&fontAlign=center&fontAlignY=20&stroke=59c2ff&strokeWidth=1&animation=fadeIn&desc=An%20enthusiastic%20and%20motivated%20Web%20Applications%20Developer.%20I%20build%20functional%20web%20applications%20with%20clean%20code%20&%20real-world%20focus.%20🚀%20&descColor=a9b1d6&descSize=14&descAlign=center&descAlignY=60"
-  width="100%"
-  alt="Nazrul-dev-91 GitHub Profile Header"
-/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f1419&height=220&section=header&text=%20%20👋%20Hi%20there,%20I'm%20Nazrul-dev-91&fontSize=24&fontAlignX=18&fontAlignY=30&fontColor=ffb454&stroke=313244&strokeWidth=2&animation=twinkling&desc=%7B%20%22role%22:%20%22Web%20%26%20Applications%20Developer%22,%20%22status%22:%20%22Building%20Functional%20Web%20Apps%20with%20Clean%20Code%22%20%7D&descSize=14&descAlignX=18&descAlignY=60&descColor=59c2ff" width="100%" alt="Nazrul-dev-91 Header" />
 </div>
 ---
 
