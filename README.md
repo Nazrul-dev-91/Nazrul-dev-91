@@ -17,9 +17,6 @@
   <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1200&auto=format&fit=crop" alt="Nazrul's Dev Banner" width="100%" style="border-radius: 12px;">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&height=100&lines=Hi+there%2C+I'm+Nazrul!+👋;Full+Stack+Web+Developer;Building+Cool+Web+%26+Apps;while(alive)+{+code();+}" alt="Typing SVG" />
-</p>
   </div>
 </div>
 ---
