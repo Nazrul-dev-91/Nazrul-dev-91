@@ -1,7 +1,7 @@
 # Hi there, I'm Nazrul! 👋
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&theme=tokyonight&height=220&section=header&text=Nazrul-dev&fontSize=60&fontColor=7aa2f7&animation=fadeIn&desc=Kotlin%20%7C%20Python%20%7C%20Web%20Dev&descSize=20&descAlign=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=16161e&height=180&section=header&text=root@Nazrul:~/profile$&fontSize=35&fontAlignY=50&fontAlign=10&fontColor=7aa2f7&stroke=7aa2f7&strokeWidth=1" width="100%" />
 </p>
   <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1200&h=400&fit=crop" width="100%" style="border-radius: 8px; display: block;" />
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
