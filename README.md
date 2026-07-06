@@ -1,6 +1,7 @@
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f1419&height=220&section=header&text=Nazrul-dev-91%20:%20~%20$%20cat%20profile.json&fontSize=26&fontAlignX=22&fontAlignY=25&fontColor=ffb454&stroke=313244&strokeWidth=2&animation=twinkling&desc=Role:%20Web%20%26%20App%20Developer%20%7C%20Focus:%20Clean%20Code%20%26%20Functional%20Apps%20%7C%20Status:%20Building%20Production-Ready%20Projects%20%7C%20Skills:%20Django,%20React,%20Android&descSize=14&descAlignX=22&descAlignY=55&descColor=59c2ff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f1419&height=220&section=header&text=Nazrul-dev-91%20:%20~%20$%20cat%20profile.json&fontSize=26&fontAlignX=22&fontAlignY=25&fontColor=ffb454&stroke=313244&strokeWidth=2&animation=twinkling&desc=Web%20%26%20App%20Developer%20%7C%20Clean%20Code%20%26%20Functional%20Apps%20%7C%20Django%2C%20React%2C%20Android&descSize=14&descAlignX=22&descAlignY=55&descColor=59c2ff" width="100%" />
+
 </p>
 </div>
 ---
