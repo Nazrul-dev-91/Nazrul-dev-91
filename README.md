@@ -1,12 +1,17 @@
 <h1 align="center">👋 Hi there, I'm Nazrul!</h1>
-```json
-{
-  "greeting": "Hi there, I'm Nazrul! 👋",
-  "welcome_msg": "Welcome to my development space 🚀",
-  "current_role": "Full Stack Web & Mobile Developer",
-  "status": "Building modern apps & writing clean code",
-  "signature": "while (alive) { code(); }"
-}
+
+<p align="center">
+  <img src="[https://img.shields.io/badge/Role-Full_Stack_Developer-7aa2f7?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Role-Full_Stack_Developer-7aa2f7?style=for-the-badge&logo=github&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Environment-Tokyo_Night-1a1b26?style=for-the-badge&logo=visual-studio-code&logoColor=7aa2f7](https://img.shields.io/badge/Environment-Tokyo_Night-1a1b26?style=for-the-badge&logo=visual-studio-code&logoColor=7aa2f7)" />
+  <img src="[https://img.shields.io/badge/Status-Building_Cool_Stuff-24283b?style=for-the-badge](https://img.shields.io/badge/Status-Building_Cool_Stuff-24283b?style=for-the-badge)" />
+</p>
+
+<p align="center">
+  <br>
+  <code>🚀 Welcome to my development space — where ideas turn into clean code.</code>
+  <br><br>
+  <code>❯ while (alive) { code(); }</code>
+</p>
 ---
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
   <p align="center">
