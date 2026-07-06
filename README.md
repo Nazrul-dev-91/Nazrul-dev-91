@@ -69,15 +69,17 @@
 
 ## 🤖 AI Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Copilot-0078D4?style=flat-square&logo=microsoftcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Antigravity-EA4335?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-%20-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/-%20-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/-%20-74aa9c?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/-%20-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/-%20-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/-%20-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI Studio" />
+  <img src="https://img.shields.io/badge/-%20-0078D4?style=flat-square&logo=microsoftcopilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/-%20-1FB8CD?style=flat-square&logo=perplexity&logoColor=white" alt="Perplexity" />
+  <img src="https://img.shields.io/badge/-%20-000000?style=flat-square&logo=robot&logoColor=white" alt="Manus AI" />
+  <img src="https://img.shields.io/badge/-%20-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Stitch" />
+  <img src="https://img.shields.io/badge/-%20-EA4335?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
 </p>
 ---
 
