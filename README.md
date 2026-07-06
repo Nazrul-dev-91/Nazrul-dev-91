@@ -109,11 +109,11 @@
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/Keep--Coding-0052CC?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Never--Give%20Up-FF0000?style=for-the-badge&logo=spacex&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Dream--Big-FF8C00?style=for-the-badge&logo=starship&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Stay--Motivated-008000?style=for-the-badge&logo=cachet&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Build--The%20Future-8A2BE2?style=for-the-badge&logo=bolt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keep_Coding-💻-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Never_Give_Up-🚀-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dream_Big-✨-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stay_Motivated-🔥-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Build_The_Future-⚡-purple?style=flat-square" />
 </p>
 
 ### 🤝 Connect with Me
