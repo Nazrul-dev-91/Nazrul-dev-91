@@ -1,9 +1,5 @@
-<div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
-  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f1419&height=220&section=header&text=Nazrul-dev-91%20:%20~%20$%20cat%20profile.json&fontSize=26&fontAlignX=22&fontAlignY=25&fontColor=ffb454&stroke=313244&strokeWidth=2&animation=twinkling&desc=Web%20%26%20App%20Developer%20|%20Clean%20Code%20%26%20Functional%20Apps%20|%20Django,%20React,%20Android&descSize=14&descAlignX=22&descAlignY=55&descColor=59c2ff" width="100%" />
-
-
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=220&section=header&text=%20%20Nazrul-dev-91%20:%20~%20$%20cat%20profile.json&fontSize=24&fontAlignX=15&fontAlignY=30&fontColor=ffb454&stroke=313244&strokeWidth=1&animation=twinkling&desc=%7B%20%22role%22:%20%22Web%20Applications%20Developer%22,%20%22focus%22:%20%22Real-World%20Projects%22,%20%22passion%22:%20%22Clean%20Code%20%26%20New%20Tools%22%20%7D&descSize=14&descAlignX=15&descAlignY=62&descColor=7aa2f7" width="100%" />
 </div>
 ---
 
