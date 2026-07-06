@@ -74,9 +74,9 @@
   <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Copilot-0078D4?style=flat-square&logo=microsoftcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/-Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Manus_AI-000000?style=flat-square&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google_Stitch-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/-Antigravity-EA4335?style=flat-square&logo=google&logoColor=white" />
 </p>
 ---
