@@ -1,4 +1,6 @@
-# Hi there, I'm Nazrul! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=7aa2f7&center=true&vCenter=true&width=900&height=120&lines=Hi+there%2C+I'm+Nazrul!+👋;Welcome+to+my+development+space+🚀;A+Passionate+Full+Stack+Web+Developer;Building+modern+web+%26+mobile+applications;while(alive)+{+code();+}" alt="Typing SVG" />
+</p>
 
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
   <p align="center">
