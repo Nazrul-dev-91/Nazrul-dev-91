@@ -1,6 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1000&pause=3000&color=00f2fe&background=1a1b26&center=false&vCenter=true&width=600&height=280&multiline=true&repeat=true&lines=while+%28alive%29+%7B;++++let+developer+%3D+%7B;++++++++name%3A+%22Nazrul%22%2C;++++++++role%3A+%22Full+Stack+Developer%22%2C;++++++++mission%3A+%22Building+apps%22%2C;++++++++theme%3A+%22Tokyo+Night+%F0%9F%8C%8C%22;++++%7D%3B;++++code%28developer%29%3B;%7D" alt="Fixed Tokyo Night IDE Vibe" />
+  <picture>
+    <!-- Line 1: while (alive) { -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=500&pause=10000&color=bb9af7&center=false&vCenter=true&width=600&height=28&lines=while+%28alive%29+%7B" alt="Line 1" /><br/>
+    <!-- Line 2:   let developer = { -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=600&color=bb9af7&center=false&vCenter=true&width=600&height=28&lines=++++let+developer+%3D+%7B" alt="Line 2" /><br/>
+    <!-- Line 3:     name: "Nazrul", -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=600&color=7aa2f7&center=false&vCenter=true&width=600&height=28&lines=++++++++name%3A+%22Nazrul%22%2C" alt="Line 3" /><br/>
+    <!-- Line 4:     role: "Full Stack Developer", -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=600&color=7aa2f7&center=false&vCenter=true&width=600&height=28&lines=++++++++role%3A+%22Full+Stack+Developer%22%2C" alt="Line 4" /><br/>
+    <!-- Line 5:     mission: "Building apps", -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=600&color=7aa2f7&center=false&vCenter=true&width=600&height=28&lines=++++++++mission%3A+%22Building+apps%22%2C" alt="Line 5" /><br/>
+    <!-- Line 6:     theme: "Tokyo Night 🌌" -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=600&color=e0af68&center=false&vCenter=true&width=600&height=28&lines=++++++++theme%3A+%22Tokyo+Night+%F0%9F%8C%8C%22" alt="Line 6" /><br/>
+    <!-- Line 7:   }; -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=400&color=bb9af7&center=false&vCenter=true&width=600&height=28&lines=++++%7D%3B" alt="Line 7" /><br/>
+    <!-- Line 8:   code(developer); -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=500&color=7aa2f7&center=false&vCenter=true&width=600&height=28&lines=++++code%28developer%29%3B" alt="Line 8" /><br/>
+    <!-- Line 9: } -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=400&color=bb9af7&center=false&vCenter=true&width=600&height=28&lines=%7D" alt="Line 9" />
+  </picture>
 </div>
+
+---
 ---
 
 <h1 align="center">👋 Hi there, I'm Nazrul!</h1>
