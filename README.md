@@ -17,7 +17,7 @@
 </a>
 <br>
 <a href="https://github.com/Pradyum-02">
-<img src="https://img.shields.io/github/followers/Pradyum-02?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/Pradyum-02?style=for-the-badge&logo=github&cacheSeconds=3600" alt="GitHub Followers" />
 </a>
 <img src="https://img.shields.io/badge/Open%20To-Internship%20%26%20Full%20Time-success?style=for-the-badge"/>
 </div>
