@@ -18,6 +18,7 @@
 
 
 ### 💫 About Me
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 "An enthusiastic and motivated Web Applications Developer. After successfully mastering the core technologies, I have recently started working on real-world projects. Passionate about writing clean code, learning new tools, and building functional web applications."
 
 - 🌍 **Location:** Bangladesh
