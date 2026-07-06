@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=4000&color=00f2fe&background=1a1b26&center=false&vCenter=true&width=600&height=280&multiline=true&repeat=true&lines=while+%28alive%29+%7B;++++let+developer+%3D+%7B;++++++++name%3A+%22Nazrul%22%2C;++++++++role%3A+%22Full+Stack+Developer%22%2C;++++++++mission%3A+%22Building+apps%22%2C;++++++++theme%3A+%22Tokyo+Night+%F0%9F%8C%8C%22;++++%7D%3B;++++code%28developer%29%3B;%7D" alt="Fast Tokyo Night IDE Vibe" />
+</div>
+<div align="center">
   <picture>
     <!-- Line 1: while (alive) { -->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=500&pause=10000&color=bb9af7&center=false&vCenter=true&width=600&height=28&lines=while+%28alive%29+%7B" alt="Line 1" /><br/>
