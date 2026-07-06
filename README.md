@@ -1,16 +1,8 @@
 # Hi there, I'm Nazrul! 👋
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1000&auto=format&fit=crop" alt="Nazrul's Dev Banner" width="100%" style="border-radius: 12px;">
-</p>
-
-<p align="center">
-  <font size="6" color="#7aa2f7"><b>❯ while(alive) { code(); }</b></font><br>
-  <font size="3" color="#aeafb0"><code>// Welcome to Nazrul's Development Environment</code></font>
-</p>
 
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=180&section=header&text=%E2%9D%AF%20while(alive)%20%7B%20code();%20%7D&fontSize=30&fontColor=7aa2f7&fontAlign=23&fontAlignY=45&desc=%2F%2F%20Welcome%20to%20Nazrul's%20Development%20Environment&descSize=14&descColor=565f89&descAlignX=23&descAlignY=75" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=120&lines=❯+while(alive)+{+code();+};Welcome+To+My+Profile+!+👋;An+enthusiastic+Web+Developer...;Learning+Advanced+Kotlin+🚀" alt="Typing SVG" />
 </p>
   <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1200&h=400&fit=crop" width="100%" style="border-radius: 8px; display: block;" />
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
