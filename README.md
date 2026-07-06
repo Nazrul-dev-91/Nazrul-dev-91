@@ -1,16 +1,14 @@
-<div align="center" style="background: linear-gradient(180deg, rgba(10,12,18,0.78), rgba(18,20,28,0.78)), url('url('https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1600&q=80')
-'); background-size: cover; padding: 28px; border-radius: 12px;">
+<div align="center" style="background: linear-gradient(180deg, rgba(10,12,18,0.78), rgba(18,20,28,0.78)), url('YOUR_BG_URL_HERE'); background-size: cover; padding: 28px; border-radius: 12px;">
   <h3 style="font-family: 'Fira Code', monospace; color: #c0caf5; margin-bottom: 8px;">
     Hi, I’m Nazrul — Web & Android Developer
   </h3>
-
-  <!-- Single multiline typing SVG: reliable line-by-line typing -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=1400&color=89b4fa&background=1a1b26&center=false&vCenter=true&width=820&height=220&multiline=true&lines=while+%28alive%29+%7B%0A++++let+developer+%3D+%7B%0A++++++++name%3A+%22Nazrul%22%2C%0A++++++++role%3A+%22Web+%26+Android+Developer%22%2C%0A++++++++mission%3A+%22Building+scalable+apps+%26+clean+UIs%22%2C%0A++++++++focus%3A+%22Kotlin%2C+Flutter%2C+React%2C+Node.js%22%0A++++%7D%3B%0A++++code%28developer%29%3B%0A%7D" alt="Typing intro" />
 
   <p style="font-family: 'Fira Code', monospace; color: #9aa5d1; margin-top: 12px; font-size: 13px;">
     Web • Android • UI/UX • Open to collaborations
   </p>
 </div>
+
 
 
 <p align="center">
