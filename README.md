@@ -69,18 +69,9 @@
 
 ## 🤖 AI Tools
 <p align="center">
-  <!-- Anthropic / Claude Ecosystem -->
-  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Claude & Claude Code" />
-  
-  <!-- OpenAI Ecosystem -->
-  <img src="https://skillicons.dev/icons?i=openai" alt="ChatGPT & Codex" />
-  
-  <!-- Google AI Ecosystem -->
-  <img src="https://skillicons.dev/icons?i=android" alt="Gemini & Google Services" />
-  
-  <!-- AI & Automation / Intelligent Agents -->
-  <img src="https://skillicons.dev/icons?i=bots" alt="Perplexity, Manus & Others" />
-</p>---
+  <img src="https://skillicons.dev/icons?i=cloudflare,cloudflare,openai,openai,android,bots,bots,google,google" alt="AI Ecosystem" />
+</p>
+---
 
 ### 🎮 Contribution Snake Game
 <p align="center">
