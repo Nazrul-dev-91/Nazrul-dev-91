@@ -2,7 +2,15 @@
 
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
   <p align="center">
-  # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7aa2f7&center=false&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Nazrul!+👋;Full+Stack+Web+Developer;Building+Cool+Web+%26+Apps;while(alive)+{+code();+}" alt="Typing SVG" />
+  <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1200&auto=format&fit=crop" alt="Nazrul's Dev Banner" width="100%" style="border-radius: 12px;">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&height=100&lines=Hi+there%2C+I'm+Nazrul!+👋;Full+Stack+Web+Developer;Building+Cool+Web+%26+Apps;while(alive)+{+code();+}" alt="Typing SVG" />
+</p>
+
+---
+  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0f1419&height=220&section=header&text=%20%20%20%20%20Nazrul-dev-91%20:%20~%20$%20cat%20profile.json&fontSize=26&fontAlignX=22&fontAlignY=25&fontColor=ffb454&stroke=313244&strokeWidth=2&animation=twinkling&desc=%7B%20%22role%22:%20%22Web%20&%20App%20Developer%22,%20%22status%22:%20%22Building%20Cool%20Stuff%22%20%7D&descSize=16&descAlignX=22&descAlignY=55&descColor=59c2ff" width="100%" />
 </p>
   <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1200&h=400&fit=crop" width="100%" style="border-radius: 8px; display: block;" />
