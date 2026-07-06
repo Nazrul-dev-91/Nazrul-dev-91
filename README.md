@@ -1,25 +1,14 @@
-)'); background-size: cover; padding: 28px; border-radius: 12px;">
 <div align="center" style="background: linear-gradient(180deg, rgba(26,27,38,0.85), rgba(10,10,12,0.85)), url('https://raw.githubusercontent.com/<Nazrul-dev-91>/<Nazrul-dev-91>/<branch>/assets/bg.gif
 '); background-size: cover; padding: 28px; border-radius: 12px;">
-  <!-- Optional small header -->
-  <h3 style="font-family: 'Fira Code', monospace; color: #c0caf5; margin-bottom: 8px;">Hi, I am Nazrul — coder vibes</h3>
+<h3 style="font-family: 'Fira Code', monospace; color: #c0caf5; margin-bottom: 8px;">👋 Hi there, I'm Nazrul! — <br>🚀 Welcome to my development space — where ideas turn into clean code.</h3>
 
-  <!-- Typing lines: adjust duration and pause per line -->
-  <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=700&pause=1200&color=bb9af7&center=false&vCenter=true&width=720&height=36&lines=while+%28alive%29+%7B" alt="Line 1" /><br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=700&pause=1000&color=89b4fa&center=false&vCenter=true&width=720&height=30&lines=++++let+developer+%3D+%7B" alt="Line 2" /><br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=700&pause=900&color=7aa2f7&center=false&vCenter=true&width=720&height=30&lines=++++++++name%3A+%22Nazrul%22%2C" alt="Line 3" /><br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=700&pause=900&color=7aa2f7&center=false&vCenter=true&width=720&height=30&lines=++++++++role%3A+%22Full+Stack+Developer%22%2C" alt="Line 4" /><br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=700&pause=900&color=7aa2f7&center=false&vCenter=true&width=720&height=30&lines=++++++++mission%3A+%22Building+apps%22%2C" alt="Line 5" /><br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=700&pause=900&color=e0af68&center=false&vCenter=true&width=720&height=30&lines=++++++++theme%3A+%22Tokyo+Night+%F0%9F%8C%8C%22" alt="Line 6" /><br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=500&pause=1200&color=bb9af7&center=false&vCenter=true&width=720&height=30&lines=++++%7D%3B" alt="Line 7" /><br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=600&pause=1200&color=89b4fa&center=false&vCenter=true&width=720&height=30&lines=++++code%28developer%29%3B" alt="Line 8" /><br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=500&pause=2000&color=bb9af7&center=false&vCenter=true&width=720&height=36&lines=%7D" alt="Line 9" />
-  </picture>
+  <!-- Single multiline typing SVG: lines will appear one-by-one -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=1400&color=89b4fa&background=1a1b26&center=false&vCenter=true&width=760&height=220&multiline=true&lines=while+%28alive%29+%7B%0A++++let+developer+%3D+%7B%0A++++++++name%3A+%22Nazrul%22%2C%0A++++++++role%3A+%22Web+%26+Android+Developer%22%2C%0A++++++++mission%3A+%22Building+apps+%26+beautiful+UIs%22%2C%0A++++++++theme%3A+%22Tokyo+Night+%F0%9F%8C%8C%22%0A++++%7D%3B%0A++++code%28developer%29%3B%0A%7D" alt="Typing intro" />
+
+  <p style="font-family: 'Fira Code', monospace; color: #9aa5d1; margin-top: 12px; font-size: 13px;">
+    Web • Android • UI/UX • Open to collabs
+  </p>
 </div>
-
-
-<h1 align="center">👋 Hi there, I'm Nazrul!</h1>
 
 <p align="center">
   <img src="[https://img.shields.io/badge/Role-Full_Stack_Developer-7aa2f7?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Role-Full_Stack_Developer-7aa2f7?style=for-the-badge&logo=github&logoColor=white)" />
@@ -27,13 +16,6 @@
   <img src="[https://img.shields.io/badge/Status-Building_Cool_Stuff-24283b?style=for-the-badge](https://img.shields.io/badge/Status-Building_Cool_Stuff-24283b?style=for-the-badge)" />
 </p>
 
-<p align="center">
-  <br>
-  <code>🚀 Welcome to my development space — where ideas turn into clean code.</code>
-  <br><br>
-  <code>❯ while (alive) { code(); }</code>
-</p>
----
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
   <p align="center">
     <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1200&auto=format&fit=crop" alt="Nazrul's Dev Banner" width="100%" style="border-radius: 12px;">
