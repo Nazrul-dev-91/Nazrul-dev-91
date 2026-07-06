@@ -1,8 +1,7 @@
 <div align="center">
   <p align="right">
-    ![Profile views](https://komarev.com/ghpvc/?username=Shivam-111&color=green)
-  </p>
-
+  <img src="https://komarev.com/ghpvc/?username=Nazrul-dev-91&color=green&style=flat-square" alt="Profile views" />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f1419&height=220&section=header&text=%20%20👋%20Hi%20there,%20I'm%20Nazrul-dev-91&fontSize=40&fontAlignX=18&fontAlignY=30&fontColor=ffb454&stroke=313244&strokeWidth=2&animation=twinkling&desc=Web%20and%20Applications%20Developer%20%7C%20Building%20Functional%20Web%20Apps&descSize=24&descAlignX=18&descAlignY=60&descColor=59c2ff" width="100%" alt="Nazrul-dev-91 Header" />
 </div>
 <div align="center">
