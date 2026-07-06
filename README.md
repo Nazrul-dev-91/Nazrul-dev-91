@@ -81,117 +81,75 @@
   <img src="https://img.shields.io/badge/-Antigravity-EA4335?style=flat-square&logo=google&logoColor=white" />
 </p>
 ---
-# 🚀 Featured Projects
-
-<div align="center">
-
-### Projects that showcase my skills in React, JavaScript, MERN Stack, and Responsive Web Development.
-
-</div>
+### 🚀 Featured Projects
+Showcasing my expertise in Full-Stack Development, MERN, and Responsive UI/UX designs.
 
 ---
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎫 Portfolio
-
-A streamlined, user-centric e-commerce web application engineered for a fast and seamless shopping experience with robust local payment protections.
-
-#✨ Key Features
-- 🔐 Seamless Guest Checkout (Direct orders without account creation)
-- 📦 Real-time Inventory & Stock Verification
-- 📍 Live Order Tracking & Progress Updates
-- 💳 Local Payment Gateway Integration (bKash, Nagad)
-- 🔍 Dynamic Product Filtering & Sorting System
-- 📱 Modern & Responsive UI/UX (Optimized for both desktop and mobile users)
-
-#🛠 Tech Stack
-`Django` `React` `Tailwind` `CSS` `Python` `PostgreSQL` `Docker` `AWS` `WebSockets`
-
+<details open>
+<summary><b>📐 1. Portfolio (Full-Stack E-Commerce Platform)</b></summary>
 <br>
 
-<a href="https://dev-nazrul-co.errorgoat.com/">
-<img src="https://img.shields.io/badge/🚀 Live Demo-blue?style=for-the-badge"/>
-</a>
+> A streamlined, user-centric e-commerce web application engineered for a fast and seamless shopping experience with robust local payment protections.
 
-<a href="https://github.com/Nazrul-dev-91/portfolio_project">
-<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge&logo=github"/>
-</a>
+#### 💡 Key Features
+- **🔐 Guest Checkout:** Seamless direct orders without the hassle of account creation.
+- **📦 Real-time Inventory:** Live stock verification and instant updates.
+- **📍 Live Tracking:** Real-time order tracking and progress updates for transparency.
+- **💳 Payment Gateway:** Integrated local payment systems including **bKash** and **Nagad**.
+- **🔍 Smart Filtering:** Dynamic product filtering and sorting system for better discovery.
+- **📱 Modern UI/UX:** Highly responsive design optimized for both desktop and mobile users.
 
-</td>
+#### 🛠 Tech Stack
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<td width="50%" valign="top">
+#### 🔗 Links
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-blue?style=for-the-badge)](https://dev-nazrul-co.errorgoat.com/) [![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Nazrul-dev-91/portfolio_project)
 
-## 🌦 Aura MArket
+</details>
 
-A modern and reliable B2C e-commerce platform designed for a fast, secure, and seamless shopping experience with zero-friction checkout.
+---
 
-### ✨ Key Features
-- 🔐 Accountless Guest Checkout (Fast & secure direct ordering without sign-up)
-- ⚡ In-Memory Fast Response (High-speed performance for catalog browsing)
-- 🔒 Atomic Transaction Lock (Ensures secure and reliable order placement)
-- 📦 Live Stock Management (Real-time product availability tracking)
-- 🧭 Order Tracking System (Instant status updates for customers)
-- 💼 Integrated Seller Portal & Admin Dashboard (Easy product and inventory control)
-- 🌐 Bilingual Support (Seamless switching between English and Bangla)
-
-### 🛠 Tech Stack
-
-`Python` `Django` `HTML` `CSS` `JavaScript`
-
+<details>
+<summary><b>🌦 2. Aura Market (Modern B2C E-Commerce)</b></summary>
 <br>
 
-<a href="http://auramarket.nazrul.errorgoat.com/">
-<img src="https://img.shields.io/badge/🚀 Live Demo-blue?style=for-the-badge"/>
-</a>
+> A modern and reliable B2C e-commerce platform designed for a fast, secure, and seamless shopping experience with zero-friction checkout.
 
-<a href="https://github.com/Nazrul-dev-91/Aura-Market">
-<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge&logo=github"/>
-</a>
+#### 💡 Key Features
+- **⚡ In-Memory Fast Response:** High-speed performance optimized for rapid catalog browsing.
+- **🔒 Atomic Transaction Lock:** Ensures secure, conflict-free, and reliable order placement.
+- **💼 Admin & Seller Portal:** Integrated dashboard for effortless product and inventory control.
+- **🌐 Bilingual Support:** Native, seamless switching between **English** and **Bangla**.
 
-</td>
+#### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</tr>
+#### 🔗 Links
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-blue?style=for-the-badge)](http://auramarket.nazrul.errorgoat.com/) [![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Nazrul-dev-91/Aura-Market)
 
-<tr>
+</details>
 
-<td width="50%" valign="top">
+---
 
-## 🛒 Choto Bazeer
-
-An Amazon-inspired B2C e-commerce catalog platform designed for high-density product discovery, featuring instant stock management and zero-friction direct ordering.
-
-### ✨ Key Features
-
-- 🔐 Instant Guest Checkout (Fast, accountless direct ordering directly from the landing page)
-- 📦 Real-time Stock Alerts & Visual Counters (Dynamic "In Stock" and "Only X Left" badges)
-- 🧭 Core Order Tracking Portal (Dedicated system for customers to check delivery status)
-- ⚡ Advanced Product Grid Filtering (Category-based browsing for Tech, Fashion, Beauty, and Devices with fast sorting)
-- 🎨 Premium Amazon-like UI/UX (A dark-themed premium header, modern hero section, and responsive e-commerce layouts)
-- 🌐 Native Bilingual Support (Smooth, instant switching between English and Bangla languages)
-
-### 🛠 Tech Stack
-
-`Python` `Django` `HTML5` `CSS` `JavaScript` `Tailwind`
-
+<details>
+<summary><b>🛒 3. Choto Bazeer (Amazon-Inspired Catalog)</b></summary>
 <br>
 
-<a href="https://chotobazeer.nazrul.errorgoat.com/">
-<img src="https://img.shields.io/badge/🚀 Live Demo-blue?style=for-the-badge"/>
-</a>
+> An Amazon-inspired B2C e-commerce catalog platform designed for high-density product discovery, featuring instant stock management and zero-friction direct ordering.
 
-<a href="https://github.com/Nazrul-dev-91/Choto-Bazeer">
-<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge&logo=github"/>
-</a>
+#### 💡 Key Features
+- **🎨 Premium UI/UX:** Dark-themed premium header, modern hero section, and responsive Amazon-like grid layouts.
+- **📦 Stock Alerts:** Dynamic visual counters ("In Stock" and "Only X Left" badges) to drive urgency.
+- **⚡ Advanced Filtering:** Fast category-based browsing (Tech, Fashion, Beauty, Devices).
 
-</td>
-</tr>
+#### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-</table>
+#### 🔗 Links
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-blue?style=for-the-badge)](https://chotobazeer.nazrul.errorgoat.com/) [![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Nazrul-dev-91/Choto-Bazeer)
 
+</details>
 
 ### 🎮 Contribution Snake Game
 <p align="center">
