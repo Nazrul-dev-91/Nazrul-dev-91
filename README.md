@@ -1,6 +1,6 @@
-<p align="center">
+**<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=8000&pause=2000&color=7aa2f7&center=false&vCenter=true&width=900&height=300&lines=while+%28alive%29+%7B%0A++++let+developer+%3D+%7B%0A++++++++name%3A+%22Nazrul%22%2C%0A++++++++role%3A+%22Full+Stack+Web+%26+Mobile+Developer%22%2C%0A++++++++mission%3A+%22Building+modern+apps+%26+clean+code%22%2C%0A++++++++theme%3A+%22Tokyo+Night+%F0%9F%8C%8C%22%0A++++%7D%3B%0A++++code%28developer%29%3B%0A%7D" alt="Typing SVG" />
-</p>
+</p>**
 
 ---
 
