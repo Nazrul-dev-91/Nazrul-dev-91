@@ -1,6 +1,6 @@
 # Hi there, I'm Nazrul! 👋
 <div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&theme=tokyonight&height=200&section=header&text=Hi,%20I'm%20Nazrul&fontSize=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=9bc53d&height=180&section=header&text=Welcome%20to%20My%20Space&fontSize=40&textColor=ffffff" width="100%" />
   <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1200&h=400&fit=crop" width="100%" style="border-radius: 8px; display: block;" />
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1200&height=100&lines=Welcome+To+My+Profile+!+%F0%9F%91%8B;An+enthusiastic+Web+Developer...;Learning+Advanced+Kotlin+%F0%9F%9A%80" alt="Typing SVG" />
