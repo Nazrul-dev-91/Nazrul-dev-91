@@ -165,7 +165,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nazrul-dev-91&theme=tokyonight" alt="Activity Graph" width="97%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nazrul-dev-91&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nazrul-dev-91&theme=tokyonight" alt="Overall Stats" width="48%" />
 </p>
 
 ---
