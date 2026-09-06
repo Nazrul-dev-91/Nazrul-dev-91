@@ -160,8 +160,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nazrul-dev-91&show_icons=true&theme=tokyonight" alt="Nazrul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazrul-dev-91&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazrul-dev-91&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nazrul-dev-91&theme=tokyonight" alt="Profile Details" width="48%" />
 </p>
 
 <p align="center">
