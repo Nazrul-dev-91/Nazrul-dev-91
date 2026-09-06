@@ -160,13 +160,15 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazrul-dev-91&theme=tokyonight" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nazrul-dev-91&theme=tokyonight" alt="Profile Details" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazrul-dev-91&theme=tokyonight" alt="GitHub Streak" height="195" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nazrul-dev-91&theme=tokyonight" alt="Profile Details" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nazrul-dev-91&theme=tokyonight" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nazrul-dev-91&theme=tokyonight" alt="Overall Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nazrul-dev-91&theme=tokyonight" alt="Top Languages" height="195" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nazrul-dev-91&theme=tokyonight" alt="Overall Stats" height="195" />
 </p>
 
 ---
