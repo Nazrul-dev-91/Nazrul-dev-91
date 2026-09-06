@@ -162,7 +162,7 @@
 <p align="center">
   <img src="https://github-readme-stats-own-9521.vercel.app/api?username=Nazrul-dev-91&show_icons=true&theme=tokyonight&count_private=true" alt="Nazrul's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-own-9521.vercel.app/api/top-langs/?username=Nazrul-dev-91&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
-</p>
+</p>>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nazrul-dev-91&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" />
